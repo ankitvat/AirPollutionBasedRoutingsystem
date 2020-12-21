@@ -1,10 +1,14 @@
-Air pollution Based Routing System.
+# Air pollution Based Routing System.
 This is our final year project.
 
 Steps To Run :
 
-git clone -repository
+*  Clone the repository
+    * git clone { repository link }
+*  Install all the dependencies
+    * pip install requirements.txt
+*  Install the runtime dependencies
+    * pip install runtime.txt
+*  Run the command
+    * python app.py
 
-yarn (If you're using yarn)/npm i 
-
-npm start.
